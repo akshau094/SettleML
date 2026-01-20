@@ -1,0 +1,19 @@
+# Data files (Too large for GitHub)
+*.csv
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Diagrams (keep images, but maybe ignore large interactive html if needed)
+# diagrams/*.html

@@ -1,8 +1,13 @@
 # Data files (Too large for GitHub)
-*.csv
 api_data_aadhar_biometric/
 api_data_aadhar_demographic/
 api_data_aadhar_enrolment/
+merged_settlement_data.csv
+pincode_settlement_predictions.csv
+
+# Keep lookup and model files for hosting
+!pincode_lookup.csv
+!*.joblib
 
 # Python cache
 __pycache__/
